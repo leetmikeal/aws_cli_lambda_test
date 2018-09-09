@@ -1,0 +1,6 @@
+START RequestId: 5590ebf5-b434-11e8-a0e6-73e0a5bac73c Version: $LATEST
+2018-09-09T13:29:10.210Z	5590ebf5-b434-11e8-a0e6-73e0a5bac73c	value1 = value1
+2018-09-09T13:29:10.210Z	5590ebf5-b434-11e8-a0e6-73e0a5bac73c	value2 = value2
+2018-09-09T13:29:10.210Z	5590ebf5-b434-11e8-a0e6-73e0a5bac73c	value3 = value3
+END RequestId: 5590ebf5-b434-11e8-a0e6-73e0a5bac73c
+REPORT RequestId: 5590ebf5-b434-11e8-a0e6-73e0a5bac73c	Duration: 20.77 ms	Billed Duration: 100 ms 	Memory Size: 128 MB	Max Memory Used: 19 MB	
